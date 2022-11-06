@@ -1,6 +1,6 @@
 # BolumSonuOdevi
 Patika/Kodluyoruz Front-end Eğitimi Bölüm sonu ödevi
-Proje görselleri sayfanın sonunda bulabilirsiniz
+
 ## Bu projede;
 patikadev üzerinden sağlanan kodluyoruz Front-End eğitimi bölüm sonu çalışması ile birlikte yapılmıştır fakat
 tamamen aynısı değildir.
